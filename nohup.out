@@ -1,0 +1,73 @@
+ * Serving Flask app "rest" (lazy loading)
+ * Environment: production
+   WARNING: Do not use the development server in a production environment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+/usr/local/lib/python3.5/dist-packages/odo/backends/pandas.py:94: FutureWarning: pandas.tslib is deprecated and will be removed in a future version.
+You can access NaTType as type(pandas.NaT)
+  @convert.register((pd.Timestamp, pd.Timedelta), (pd.tslib.NaTType, type(None)))
+ * Running on http://51.38.49.225:5000/ (Press CTRL+C to quit)
+83.173.67.13 - - [10/Jul/2018 15:16:39] "POST /star HTTP/1.1" 200 -
+INFO:werkzeug:83.173.67.13 - - [10/Jul/2018 15:16:39] "POST /star HTTP/1.1" 200 -
+ERROR:flask.app:Exception on /star [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.5/dist-packages/flask/_compat.py", line 35, in reraise
+    raise value
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "rest.py", line 99, in add_star
+    df['idApiary'] = request.json['idApiary']
+KeyError: 'idApiary'
+83.173.67.13 - - [10/Jul/2018 15:37:25] "POST /star HTTP/1.1" 500 -
+INFO:werkzeug:83.173.67.13 - - [10/Jul/2018 15:37:25] "POST /star HTTP/1.1" 500 -
+83.173.67.13 - - [10/Jul/2018 15:37:30] "POST /star HTTP/1.1" 200 -
+INFO:werkzeug:83.173.67.13 - - [10/Jul/2018 15:37:30] "POST /star HTTP/1.1" 200 -
+83.173.67.13 - - [10/Jul/2018 15:38:38] "OPTIONS /star HTTP/1.1" 200 -
+INFO:werkzeug:83.173.67.13 - - [10/Jul/2018 15:38:38] "OPTIONS /star HTTP/1.1" 200 -
+83.173.67.13 - - [10/Jul/2018 15:42:04] "OPTIONS /star HTTP/1.1" 200 -
+INFO:werkzeug:83.173.67.13 - - [10/Jul/2018 15:42:04] "OPTIONS /star HTTP/1.1" 200 -
+ * Serving Flask app "rest" (lazy loading)
+ * Environment: production
+   WARNING: Do not use the development server in a production environment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+/usr/local/lib/python3.5/dist-packages/odo/backends/pandas.py:94: FutureWarning: pandas.tslib is deprecated and will be removed in a future version.
+You can access NaTType as type(pandas.NaT)
+  @convert.register((pd.Timestamp, pd.Timedelta), (pd.tslib.NaTType, type(None)))
+ * Running on http://51.38.49.225:5000/ (Press CTRL+C to quit)
+83.173.67.13 - - [24/Jul/2018 16:06:18] "OPTIONS /star HTTP/1.1" 200 -
+ERROR:flask.app:Exception on /star [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.5/dist-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.5/dist-packages/flask/_compat.py", line 35, in reraise
+    raise value
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.5/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "./rest.py", line 111, in add_star
+    mongo.db.dataIncorect.insert(records)
+  File "/usr/local/lib/python3.5/dist-packages/pymongo/collection.py", line 3161, in insert
+    check_keys, manipulate, write_concern)
+  File "/usr/local/lib/python3.5/dist-packages/pymongo/collection.py", line 641, in _insert
+    blk.execute(write_concern, session=session)
+  File "/usr/local/lib/python3.5/dist-packages/pymongo/bulk.py", line 495, in execute
+    raise InvalidOperation('No operations to execute')
+pymongo.errors.InvalidOperation: No operations to execute
+83.173.67.13 - - [24/Jul/2018 16:06:18] "POST /star HTTP/1.1" 500 -
+INFO:werkzeug:83.173.67.13 - - [24/Jul/2018 16:06:18] "POST /star HTTP/1.1" 500 -

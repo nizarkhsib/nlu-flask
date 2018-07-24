@@ -1,0 +1,3591 @@
+{
+  "entities": {
+    "01-SujetRucher": {
+      "automatically_extensible": true,
+      "data": [
+        {
+          "synonyms": [
+            "apiary"
+          ],
+          "value": "rucher"
+        },
+        {
+          "synonyms": [],
+          "value": "toutes les ruches"
+        },
+        {
+          "synonyms": [],
+          "value": "mon rucher"
+        },
+        {
+          "synonyms": [],
+          "value": "son rucher"
+        },
+        {
+          "synonyms": [],
+          "value": "leur rucher"
+        }
+      ],
+      "use_synonyms": true
+    },
+    "02-SujetRuche": {
+      "automatically_extensible": true,
+      "data": [
+        {
+          "synonyms": [],
+          "value": "dadant"
+        },
+        {
+          "synonyms": [],
+          "value": "langstroth"
+        },
+        {
+          "synonyms": [
+            "kenyane"
+          ],
+          "value": "keynianne"
+        },
+        {
+          "synonyms": [
+            "hive"
+          ],
+          "value": "ruche"
+        },
+        {
+          "synonyms": [],
+          "value": "ruche dadant"
+        },
+        {
+          "synonyms": [],
+          "value": "ruchette"
+        },
+        {
+          "synonyms": [
+            "ruchette 6 cadres",
+            "ruchette 5 cadres",
+            "ruchette 5c",
+            "ruchette 6c"
+          ],
+          "value": "ruchette 6cadres"
+        },
+        {
+          "synonyms": [],
+          "value": "aum\u00f4ni\u00e8re"
+        },
+        {
+          "synonyms": [],
+          "value": "voirnot"
+        },
+        {
+          "synonyms": [],
+          "value": "layens"
+        },
+        {
+          "synonyms": [],
+          "value": "WBC"
+        },
+        {
+          "synonyms": [],
+          "value": "tonelli"
+        },
+        {
+          "synonyms": [],
+          "value": "paille"
+        },
+        {
+          "synonyms": [],
+          "value": "tronc"
+        },
+        {
+          "synonyms": [],
+          "value": "tanzanienne"
+        },
+        {
+          "synonyms": [],
+          "value": "keynianne"
+        },
+        {
+          "synonyms": [],
+          "value": "Warr\u00e9"
+        },
+        {
+          "synonyms": [
+            "gratte-ciel"
+          ],
+          "value": "gratte ciel"
+        }
+      ],
+      "use_synonyms": true
+    },
+    "03-IdRucher": {
+      "automatically_extensible": true,
+      "data": [
+        {
+          "synonyms": [],
+          "value": "mon rucher"
+        },
+        {
+          "synonyms": [],
+          "value": "le rucher de"
+        }
+      ],
+      "use_synonyms": true
+    },
+    "04-IdRuche": {
+      "automatically_extensible": true,
+      "data": [
+        {
+          "synonyms": [
+            "ruche 1"
+          ],
+          "value": "ruche1"
+        },
+        {
+          "synonyms": [
+            "ruche 2"
+          ],
+          "value": "ruche2"
+        },
+        {
+          "synonyms": [
+            "ruche 3"
+          ],
+          "value": "ruche3"
+        },
+        {
+          "synonyms": [
+            "r 1"
+          ],
+          "value": "r1"
+        },
+        {
+          "synonyms": [
+            "r 2"
+          ],
+          "value": "r2"
+        },
+        {
+          "synonyms": [
+            "r 3"
+          ],
+          "value": "r3"
+        }
+      ],
+      "use_synonyms": true
+    },
+    "05-ActiviteApi": {
+      "automatically_extensible": true,
+      "data": [
+        {
+          "synonyms": [
+            "recolte",
+            "extraction"
+          ],
+          "value": "r\u00e9colte"
+        },
+        {
+          "synonyms": [],
+          "value": "visite de printemps"
+        },
+        {
+          "synonyms": [],
+          "value": "miellerie"
+        },
+        {
+          "synonyms": [],
+          "value": "capture essaim"
+        },
+        {
+          "synonyms": [
+            "elevage de reine"
+          ],
+          "value": "\u00e9levage de reine"
+        },
+        {
+          "synonyms": [
+            "traitement"
+          ],
+          "value": "traitements"
+        },
+        {
+          "synonyms": [],
+          "value": "division"
+        },
+        {
+          "synonyms": [],
+          "value": "greffage"
+        },
+        {
+          "synonyms": [],
+          "value": "nourrissement"
+        },
+        {
+          "synonyms": [],
+          "value": "comptage varroa"
+        },
+        {
+          "synonyms": [],
+          "value": "exterminer fr\u00e9lons"
+        },
+        {
+          "synonyms": [],
+          "value": "transvasement"
+        }
+      ],
+      "use_synonyms": true
+    },
+    "06-RegneApi": {
+      "automatically_extensible": true,
+      "data": [
+        {
+          "synonyms": [
+            "abeilles"
+          ],
+          "value": "abeille"
+        },
+        {
+          "synonyms": [
+            "butineuse"
+          ],
+          "value": "buttineuse"
+        },
+        {
+          "synonyms": [],
+          "value": "nourrice"
+        },
+        {
+          "synonyms": [],
+          "value": "nettoyeuse"
+        },
+        {
+          "synonyms": [],
+          "value": "reine"
+        },
+        {
+          "synonyms": [],
+          "value": "colonie"
+        }
+      ],
+      "use_synonyms": true
+    },
+    "07-OutillageApi": {
+      "automatically_extensible": true,
+      "data": [
+        {
+          "synonyms": [],
+          "value": "leve cadre"
+        },
+        {
+          "synonyms": [],
+          "value": "brosse"
+        },
+        {
+          "synonyms": [],
+          "value": "enfumoir"
+        },
+        {
+          "synonyms": [],
+          "value": "P\u00e8se ruche"
+        },
+        {
+          "synonyms": [],
+          "value": "cauteau"
+        },
+        {
+          "synonyms": [],
+          "value": "gants"
+        },
+        {
+          "synonyms": [],
+          "value": "vareuse"
+        },
+        {
+          "synonyms": [],
+          "value": "combustible"
+        },
+        {
+          "synonyms": [],
+          "value": "charoit"
+        },
+        {
+          "synonyms": [],
+          "value": "spatule"
+        }
+      ],
+      "use_synonyms": true
+    },
+    "08-DynamiqueColonie": {
+      "automatically_extensible": true,
+      "data": [
+        {
+          "synonyms": [],
+          "value": "couvain"
+        },
+        {
+          "synonyms": [],
+          "value": "oeufs"
+        },
+        {
+          "synonyms": [],
+          "value": "cellule royale"
+        },
+        {
+          "synonyms": [],
+          "value": "bourdonneuse"
+        },
+        {
+          "synonyms": [],
+          "value": "reine vierge"
+        },
+        {
+          "synonyms": [],
+          "value": "reine f\u00e9cond\u00e9e"
+        },
+        {
+          "synonyms": [],
+          "value": "cellules de m\u00e2les"
+        },
+        {
+          "synonyms": [],
+          "value": "populeuse"
+        },
+        {
+          "synonyms": [],
+          "value": "agressive"
+        },
+        {
+          "synonyms": [],
+          "value": "nectar"
+        },
+        {
+          "synonyms": [],
+          "value": "provisoirs"
+        },
+        {
+          "synonyms": [],
+          "value": "pollen"
+        },
+        {
+          "synonyms": [],
+          "value": "bati"
+        },
+        {
+          "synonyms": [],
+          "value": "\u00e0 batir"
+        },
+        {
+          "synonyms": [],
+          "value": "vide"
+        },
+        {
+          "synonyms": [
+            "rempli"
+          ],
+          "value": "plein"
+        },
+        {
+          "synonyms": [],
+          "value": "larves"
+        }
+      ],
+      "use_synonyms": true
+    },
+    "09-DynamiqueColonieE": {
+      "automatically_extensible": true,
+      "data": [
+        {
+          "synonyms": [],
+          "value": "essaimage"
+        },
+        {
+          "synonyms": [],
+          "value": "chant de la reine"
+        },
+        {
+          "synonyms": [],
+          "value": "essaim"
+        }
+      ],
+      "use_synonyms": true
+    },
+    "10-ProduitRuche": {
+      "automatically_extensible": true,
+      "data": [
+        {
+          "synonyms": [],
+          "value": "miel"
+        },
+        {
+          "synonyms": [],
+          "value": "cire"
+        },
+        {
+          "synonyms": [],
+          "value": "propolis"
+        },
+        {
+          "synonyms": [
+            "gelee royale"
+          ],
+          "value": "gel\u00e9e royale"
+        },
+        {
+          "synonyms": [],
+          "value": "venin"
+        }
+      ],
+      "use_synonyms": true
+    },
+    "11-MaterielRuche": {
+      "automatically_extensible": true,
+      "data": [
+        {
+          "synonyms": [],
+          "value": "cadre de corps"
+        },
+        {
+          "synonyms": [],
+          "value": "cadre de hausse"
+        },
+        {
+          "synonyms": [
+            "hausse",
+            "h1",
+            "h 1",
+            "h2",
+            "h 2",
+            "h3",
+            "h 3"
+          ],
+          "value": "hausses"
+        },
+        {
+          "synonyms": [],
+          "value": "corps"
+        },
+        {
+          "synonyms": [],
+          "value": "planchers"
+        },
+        {
+          "synonyms": [
+            "nourrisseurs"
+          ],
+          "value": "nourrisseur"
+        },
+        {
+          "synonyms": [
+            "couvre-cadres"
+          ],
+          "value": "couvre cadres"
+        },
+        {
+          "synonyms": [],
+          "value": "toit"
+        },
+        {
+          "synonyms": [],
+          "value": "chasse abeilles"
+        },
+        {
+          "synonyms": [],
+          "value": "grille \u00e0 reine"
+        },
+        {
+          "synonyms": [
+            "grille a pollen"
+          ],
+          "value": "grille \u00e0 pollen"
+        },
+        {
+          "synonyms": [],
+          "value": "grille \u00e0 propolis"
+        },
+        {
+          "synonyms": [],
+          "value": "cire gaufr\u00e9e"
+        },
+        {
+          "synonyms": [
+            "cpt"
+          ],
+          "value": "capteur"
+        },
+        {
+          "synonyms": [],
+          "value": "balance"
+        },
+        {
+          "synonyms": [],
+          "value": "plan d'envol"
+        },
+        {
+          "synonyms": [],
+          "value": "toiture"
+        },
+        {
+          "synonyms": [],
+          "value": "poign\u00e9e"
+        },
+        {
+          "synonyms": [],
+          "value": "auvent"
+        }
+      ],
+      "use_synonyms": true
+    },
+    "12-Nourrissement": {
+      "automatically_extensible": true,
+      "data": [
+        {
+          "synonyms": [
+            "invertbee"
+          ],
+          "value": "sirop"
+        },
+        {
+          "synonyms": [
+            "candipollen"
+          ],
+          "value": "candi"
+        },
+        {
+          "synonyms": [],
+          "value": "sucre"
+        },
+        {
+          "synonyms": [
+            "apinvert"
+          ],
+          "value": "apiinvert"
+        },
+        {
+          "synonyms": [],
+          "value": "apistar"
+        },
+        {
+          "synonyms": [],
+          "value": "invertbee"
+        },
+        {
+          "synonyms": [],
+          "value": "butiforce"
+        },
+        {
+          "synonyms": [],
+          "value": "apidor"
+        }
+      ],
+      "use_synonyms": true
+    },
+    "13-Traitement": {
+      "automatically_extensible": true,
+      "data": [
+        {
+          "synonyms": [
+            "acide formique",
+            "acide oxalique"
+          ],
+          "value": "apivar"
+        },
+        {
+          "synonyms": [],
+          "value": "huile essentielle"
+        },
+        {
+          "synonyms": [],
+          "value": "antibiotique"
+        },
+        {
+          "synonyms": [],
+          "value": "barquette"
+        },
+        {
+          "synonyms": [
+            "lanieres"
+          ],
+          "value": "lani\u00e8res"
+        },
+        {
+          "synonyms": [],
+          "value": "apistan"
+        }
+      ],
+      "use_synonyms": true
+    },
+    "14-Nuisibles": {
+      "automatically_extensible": true,
+      "data": [
+        {
+          "synonyms": [
+            "varoa"
+          ],
+          "value": "varroa"
+        },
+        {
+          "synonyms": [
+            "frelon asiatique"
+          ],
+          "value": "frelen"
+        },
+        {
+          "synonyms": [],
+          "value": "frelon asiatique"
+        },
+        {
+          "synonyms": [],
+          "value": "fausse teigne"
+        },
+        {
+          "synonyms": [
+            "vespa cabro"
+          ],
+          "value": "frelon europ\u00e9en"
+        },
+        {
+          "synonyms": [],
+          "value": "frelon loque"
+        },
+        {
+          "synonyms": [
+            "Nosema"
+          ],
+          "value": "nosemose"
+        }
+      ],
+      "use_synonyms": true
+    },
+    "15-Phenologie": {
+      "automatically_extensible": true,
+      "data": [
+        {
+          "synonyms": [
+            "miellee"
+          ],
+          "value": "miell\u00e9e"
+        },
+        {
+          "synonyms": [
+            "en fleur"
+          ],
+          "value": "floraison"
+        },
+        {
+          "synonyms": [],
+          "value": "bourgeons"
+        },
+        {
+          "synonyms": [
+            "feuillees"
+          ],
+          "value": "feuill\u00e9es"
+        }
+      ],
+      "use_synonyms": true
+    },
+    "16-Sante": {
+      "automatically_extensible": true,
+      "data": [
+        {
+          "synonyms": [],
+          "value": "maladie"
+        },
+        {
+          "synonyms": [],
+          "value": "mortalit\u00e9"
+        },
+        {
+          "synonyms": [],
+          "value": "virus"
+        },
+        {
+          "synonyms": [],
+          "value": "bact\u00e9ries"
+        },
+        {
+          "synonyms": [],
+          "value": "champignons"
+        }
+      ],
+      "use_synonyms": true
+    },
+    "17-Meteo": {
+      "automatically_extensible": true,
+      "data": [
+        {
+          "synonyms": [],
+          "value": "pluie"
+        },
+        {
+          "synonyms": [],
+          "value": "anticyclone"
+        },
+        {
+          "synonyms": [],
+          "value": "neige"
+        },
+        {
+          "synonyms": [],
+          "value": "d\u00e9pression"
+        },
+        {
+          "synonyms": [],
+          "value": "Orage c\u00e9venol"
+        },
+        {
+          "synonyms": [],
+          "value": "vague de froid"
+        },
+        {
+          "synonyms": [],
+          "value": "temp\u00eate de neige"
+        },
+        {
+          "synonyms": [],
+          "value": "vent"
+        },
+        {
+          "synonyms": [],
+          "value": "humidit\u00e9"
+        },
+        {
+          "synonyms": [],
+          "value": "soleil"
+        },
+        {
+          "synonyms": [],
+          "value": "chaud"
+        },
+        {
+          "synonyms": [],
+          "value": "froid"
+        },
+        {
+          "synonyms": [],
+          "value": "neige"
+        },
+        {
+          "synonyms": [],
+          "value": "orage c\u00e9venole"
+        },
+        {
+          "synonyms": [],
+          "value": "vague de froid"
+        },
+        {
+          "synonyms": [],
+          "value": "temp\u00eate de neige"
+        }
+      ],
+      "use_synonyms": true
+    },
+    "18-Fleurs": {
+      "automatically_extensible": true,
+      "data": [
+        {
+          "synonyms": [
+            "tileul"
+          ],
+          "value": "tilleul"
+        },
+        {
+          "synonyms": [],
+          "value": "acacia"
+        },
+        {
+          "synonyms": [],
+          "value": "colza"
+        },
+        {
+          "synonyms": [],
+          "value": "callune"
+        },
+        {
+          "synonyms": [],
+          "value": "pissenlit"
+        },
+        {
+          "synonyms": [],
+          "value": "sarrasin"
+        },
+        {
+          "synonyms": [],
+          "value": "cerisier"
+        },
+        {
+          "synonyms": [],
+          "value": "arbousier"
+        },
+        {
+          "synonyms": [],
+          "value": "calunne"
+        },
+        {
+          "synonyms": [],
+          "value": "bruyere"
+        },
+        {
+          "synonyms": [],
+          "value": "prunier"
+        },
+        {
+          "synonyms": [
+            "fleurs mellif\u00e8res"
+          ],
+          "value": "fleur"
+        },
+        {
+          "synonyms": [],
+          "value": "jacinthe"
+        },
+        {
+          "synonyms": [],
+          "value": "coriandre"
+        },
+        {
+          "synonyms": [],
+          "value": "lavande"
+        },
+        {
+          "synonyms": [],
+          "value": "thym"
+        },
+        {
+          "synonyms": [],
+          "value": "coriandre"
+        },
+        {
+          "synonyms": [],
+          "value": "jacinthe"
+        },
+        {
+          "synonyms": [],
+          "value": "perce-neige"
+        },
+        {
+          "synonyms": [],
+          "value": "coquelicot"
+        },
+        {
+          "synonyms": [],
+          "value": "bourrache"
+        },
+        {
+          "synonyms": [],
+          "value": "fenouil"
+        },
+        {
+          "synonyms": [],
+          "value": "sauge"
+        },
+        {
+          "synonyms": [],
+          "value": "crocus"
+        },
+        {
+          "synonyms": [],
+          "value": "renoncule"
+        },
+        {
+          "synonyms": [],
+          "value": "g\u00e9ranium"
+        },
+        {
+          "synonyms": [],
+          "value": "marguerite"
+        },
+        {
+          "synonyms": [],
+          "value": "bleuet"
+        },
+        {
+          "synonyms": [],
+          "value": "calendule"
+        },
+        {
+          "synonyms": [],
+          "value": "dahlia"
+        },
+        {
+          "synonyms": [],
+          "value": "aster"
+        },
+        {
+          "synonyms": [],
+          "value": "myosotis"
+        },
+        {
+          "synonyms": [],
+          "value": "zinnia"
+        },
+        {
+          "synonyms": [],
+          "value": "cosmos"
+        },
+        {
+          "synonyms": [],
+          "value": "tournesol"
+        },
+        {
+          "synonyms": [],
+          "value": "heliotrope"
+        }
+      ],
+      "use_synonyms": true
+    },
+    "19-Symboles": {
+      "automatically_extensible": true,
+      "data": [
+        {
+          "synonyms": [],
+          "value": "="
+        },
+        {
+          "synonyms": [],
+          "value": "-"
+        },
+        {
+          "synonyms": [],
+          "value": "_"
+        }
+      ],
+      "use_synonyms": true
+    },
+    "20-Quantite": {
+      "automatically_extensible": true,
+      "data": [
+        {
+          "synonyms": [
+            "kg"
+          ],
+          "value": "kilogramme"
+        },
+        {
+          "synonyms": [
+            "hg"
+          ],
+          "value": "hectogramme"
+        },
+        {
+          "synonyms": [
+            "dag"
+          ],
+          "value": "d\u00e9cagramme"
+        },
+        {
+          "synonyms": [
+            "g"
+          ],
+          "value": "gramme"
+        },
+        {
+          "synonyms": [
+            "dg"
+          ],
+          "value": "d\u00e9cigramme"
+        },
+        {
+          "synonyms": [
+            "cg"
+          ],
+          "value": "centigramme"
+        },
+        {
+          "synonyms": [
+            "mg"
+          ],
+          "value": "milligramme"
+        },
+        {
+          "synonyms": [
+            "qtl"
+          ],
+          "value": "quintal"
+        },
+        {
+          "synonyms": [
+            "t"
+          ],
+          "value": "tonne"
+        },
+        {
+          "synonyms": [],
+          "value": "un peu"
+        },
+        {
+          "synonyms": [],
+          "value": "plusieurs"
+        },
+        {
+          "synonyms": [],
+          "value": "assez"
+        },
+        {
+          "synonyms": [],
+          "value": "tranche"
+        },
+        {
+          "synonyms": [],
+          "value": "morceau"
+        },
+        {
+          "synonyms": [],
+          "value": "kilo"
+        },
+        {
+          "synonyms": [],
+          "value": "litre"
+        },
+        {
+          "synonyms": [],
+          "value": "beaucoup"
+        },
+        {
+          "synonyms": [],
+          "value": "trop"
+        }
+      ],
+      "use_synonyms": true
+    },
+    "21-PersonnePhysique": {
+      "automatically_extensible": true,
+      "data": [],
+      "use_synonyms": true
+    },
+    "22-PersonneMorale": {
+      "automatically_extensible": true,
+      "data": [
+        {
+          "synonyms": [],
+          "value": "Icko"
+        },
+        {
+          "synonyms": [],
+          "value": "thomas Apiculteur"
+        },
+        {
+          "synonyms": [],
+          "value": "Michaud"
+        },
+        {
+          "synonyms": [],
+          "value": "magasin apiculture"
+        },
+        {
+          "synonyms": [],
+          "value": "apidistribution"
+        },
+        {
+          "synonyms": [],
+          "value": "truffaut"
+        }
+      ],
+      "use_synonyms": true
+    },
+    "23-LieuxPhysique": {
+      "automatically_extensible": true,
+      "data": [
+        {
+          "synonyms": [],
+          "value": "pau"
+        },
+        {
+          "synonyms": [],
+          "value": "paris"
+        },
+        {
+          "synonyms": [],
+          "value": "bordeaux"
+        },
+        {
+          "synonyms": [],
+          "value": "toulouse"
+        },
+        {
+          "synonyms": [],
+          "value": "bayone"
+        },
+        {
+          "synonyms": [],
+          "value": "madrid"
+        },
+        {
+          "synonyms": [],
+          "value": "marseille"
+        },
+        {
+          "synonyms": [],
+          "value": "lyon"
+        },
+        {
+          "synonyms": [],
+          "value": "lile"
+        },
+        {
+          "synonyms": [],
+          "value": "nice"
+        },
+        {
+          "synonyms": [],
+          "value": "rennes"
+        },
+        {
+          "synonyms": [],
+          "value": "grenoble"
+        },
+        {
+          "synonyms": [],
+          "value": "angers"
+        },
+        {
+          "synonyms": [],
+          "value": "brest"
+        },
+        {
+          "synonyms": [],
+          "value": "tours"
+        },
+        {
+          "synonyms": [],
+          "value": "bourdeaux"
+        },
+        {
+          "synonyms": [],
+          "value": "amiens"
+        },
+        {
+          "synonyms": [],
+          "value": "metz"
+        }
+      ],
+      "use_synonyms": true
+    },
+    "24-Augmentation": {
+      "automatically_extensible": true,
+      "data": [
+        {
+          "synonyms": [],
+          "value": "plus"
+        },
+        {
+          "synonyms": [],
+          "value": "augmente"
+        },
+        {
+          "synonyms": [],
+          "value": "avance"
+        }
+      ],
+      "use_synonyms": true
+    },
+    "25-Diminution": {
+      "automatically_extensible": true,
+      "data": [
+        {
+          "synonyms": [],
+          "value": "bas"
+        },
+        {
+          "synonyms": [],
+          "value": "inf\u00e9rieure"
+        }
+      ],
+      "use_synonyms": true
+    },
+    "26-MotsPositifs": {
+      "automatically_extensible": true,
+      "data": [
+        {
+          "synonyms": [],
+          "value": "ok"
+        },
+        {
+          "synonyms": [
+            "good",
+            "great",
+            "yeah",
+            "yes"
+          ],
+          "value": "bien"
+        }
+      ],
+      "use_synonyms": true
+    },
+    "27-MotsNegatifs": {
+      "automatically_extensible": true,
+      "data": [
+        {
+          "synonyms": [],
+          "value": "non"
+        },
+        {
+          "synonyms": [],
+          "value": "pas"
+        },
+        {
+          "synonyms": [],
+          "value": "pas du tout"
+        },
+        {
+          "synonyms": [],
+          "value": "nullement"
+        }
+      ],
+      "use_synonyms": true
+    },
+    "TypeActiviteApi": {
+      "automatically_extensible": true,
+      "data": [],
+      "use_synonyms": true
+    },
+    "TypeAugmentation": {
+      "automatically_extensible": true,
+      "data": [],
+      "use_synonyms": true
+    },
+    "TypeDynamiqueColonie": {
+      "automatically_extensible": true,
+      "data": [],
+      "use_synonyms": true
+    },
+    "TypeDynamiqueColonieE": {
+      "automatically_extensible": true,
+      "data": [],
+      "use_synonyms": true
+    },
+    "TypeFleurs": {
+      "automatically_extensible": true,
+      "data": [],
+      "use_synonyms": true
+    },
+    "TypeIdRuche": {
+      "automatically_extensible": true,
+      "data": [],
+      "use_synonyms": true
+    },
+    "TypeIdRucher": {
+      "automatically_extensible": true,
+      "data": [],
+      "use_synonyms": true
+    },
+    "TypeMaterielRuche": {
+      "automatically_extensible": true,
+      "data": [],
+      "use_synonyms": true
+    },
+    "TypeNourrissement": {
+      "automatically_extensible": true,
+      "data": [],
+      "use_synonyms": true
+    },
+    "TypeNuisibles": {
+      "automatically_extensible": true,
+      "data": [],
+      "use_synonyms": true
+    },
+    "TypePersonnePhysique": {
+      "automatically_extensible": true,
+      "data": [],
+      "use_synonyms": true
+    },
+    "TypePhenologie": {
+      "automatically_extensible": true,
+      "data": [],
+      "use_synonyms": true
+    },
+    "TypeProduitRuche": {
+      "automatically_extensible": true,
+      "data": [],
+      "use_synonyms": true
+    },
+    "TypeQuantite": {
+      "automatically_extensible": true,
+      "data": [],
+      "use_synonyms": true
+    },
+    "TypeRegneApi": {
+      "automatically_extensible": true,
+      "data": [],
+      "use_synonyms": true
+    },
+    "TypeSujetRuche": {
+      "automatically_extensible": true,
+      "data": [],
+      "use_synonyms": true
+    },
+    "TypeSujetRucher": {
+      "automatically_extensible": true,
+      "data": [],
+      "use_synonyms": true
+    },
+    "TypeSymboles": {
+      "automatically_extensible": true,
+      "data": [],
+      "use_synonyms": true
+    },
+    "TypeTraitement": {
+      "automatically_extensible": true,
+      "data": [],
+      "use_synonyms": true
+    },
+    "snips/datetime": {},
+    "snips/duration": {},
+    "snips/number": {},
+    "snips/percentage": {}
+  },
+  "intents": {
+    "ObservationNature": {
+      "utterances": [
+        {
+          "data": [
+            {
+              "text": "la "
+            },
+            {
+              "entity": "TypePhenologie",
+              "slot_name": "Phenologie",
+              "text": "floraison"
+            },
+            {
+              "text": " du "
+            },
+            {
+              "entity": "TypeFleurs",
+              "slot_name": "Fleurs",
+              "text": "tilleul"
+            },
+            {
+              "text": " a d\u00e9marr\u00e9 le "
+            },
+            {
+              "entity": "snips/datetime",
+              "slot_name": "Date",
+              "text": "5 mai"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "toute les "
+            },
+            {
+              "entity": "TypeSujetRucher",
+              "slot_name": "SujetRucher",
+              "text": "ruches"
+            },
+            {
+              "text": " sont bien sauf "
+            },
+            {
+              "entity": "TypeIdRucher",
+              "slot_name": "IdRucher",
+              "text": "R2"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "les 4 "
+            },
+            {
+              "entity": "TypeRegneApi",
+              "slot_name": "RegneApi",
+              "text": "colonies"
+            },
+            {
+              "text": " ont survecu"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "les "
+            },
+            {
+              "entity": "TypeRegneApi",
+              "slot_name": "RegneApi",
+              "text": "abeilles"
+            },
+            {
+              "text": " sont de sortie apres un rude "
+            },
+            {
+              "entity": "snips/duration",
+              "slot_name": "Duree",
+              "text": "hiver"
+            },
+            {
+              "text": " et plusieurs "
+            },
+            {
+              "entity": "snips/duration",
+              "slot_name": "Duree",
+              "text": "semaines"
+            },
+            {
+              "text": " de froid intense."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Arriv\u00e9 des frelons "
+            },
+            {
+              "entity": "TypeNuisibles",
+              "slot_name": "Nuisibles",
+              "text": "asiatiques"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "le "
+            },
+            {
+              "entity": "TypeFleurs",
+              "slot_name": "Fleurs",
+              "text": "tilleul"
+            },
+            {
+              "text": " n'est pas encore en "
+            },
+            {
+              "entity": "TypePhenologie",
+              "slot_name": "Phenologie",
+              "text": "fleur"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "la "
+            },
+            {
+              "entity": "TypeRegneApi",
+              "slot_name": "RegneApi",
+              "text": "reine"
+            },
+            {
+              "text": " est n\u00e9e le 8 "
+            },
+            {
+              "entity": "snips/datetime",
+              "slot_name": "Date",
+              "text": "avril"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "la "
+            },
+            {
+              "entity": "TypeRegneApi",
+              "slot_name": "RegneApi",
+              "text": "reine"
+            },
+            {
+              "text": " est neuve de "
+            },
+            {
+              "entity": "snips/datetime",
+              "slot_name": "Date",
+              "text": "l'ann\u00e9e"
+            },
+            {
+              "entity": "TypeAugmentation",
+              "slot_name": "Augmentation",
+              "text": "elev\u00e9e"
+            },
+            {
+              "text": " artficiellement"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "les "
+            },
+            {
+              "entity": "TypeRegneApi",
+              "slot_name": "RegneApi",
+              "text": "abeilles"
+            },
+            {
+              "text": " rentrent du nectar de "
+            },
+            {
+              "entity": "TypeFleurs",
+              "slot_name": "Fleurs",
+              "text": "tilleul"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "TypeDynamiqueColonie",
+              "slot_name": "DynamiqueColonie",
+              "text": "essaim"
+            },
+            {
+              "text": " attrap\u00e9 et install\u00e9 dans "
+            },
+            {
+              "entity": "TypeIdRucher",
+              "slot_name": "IdRucher",
+              "text": "R10"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "les "
+            },
+            {
+              "entity": "TypeRegneApi",
+              "slot_name": "RegneApi",
+              "text": "abeilles"
+            },
+            {
+              "text": " rentrent du nectar de "
+            },
+            {
+              "entity": "TypeFleurs",
+              "slot_name": "Fleurs",
+              "text": "tilleul"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "un gros "
+            },
+            {
+              "entity": "TypeDynamiqueColonie",
+              "slot_name": "DynamiqueColonie",
+              "text": "essaim"
+            },
+            {
+              "text": " est parti \u00e0 "
+            },
+            {
+              "entity": "snips/datetime",
+              "slot_name": "Date",
+              "text": "13h50"
+            },
+            {
+              "entity": "snips/datetime",
+              "slot_name": "Date",
+              "text": "aujourd'hui"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "les "
+            },
+            {
+              "entity": "TypeNuisibles",
+              "slot_name": "Nuisibles",
+              "text": "frelons"
+            },
+            {
+              "text": " sont d\u00e9finitivement partis"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "snips/number",
+              "slot_name": "Nombre",
+              "text": "250"
+            },
+            {
+              "entity": "TypeNuisibles",
+              "slot_name": "Nuisibles",
+              "text": "frelons"
+            },
+            {
+              "text": " tu\u00e9s en 15 "
+            },
+            {
+              "entity": "snips/duration",
+              "slot_name": "Duree",
+              "text": "minutes"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "snips/number",
+              "slot_name": "Nombre",
+              "text": "7"
+            },
+            {
+              "entity": "TypeNuisibles",
+              "slot_name": "Nuisibles",
+              "text": "frelons"
+            },
+            {
+              "text": " tu\u00e9s en 10 "
+            },
+            {
+              "entity": "snips/duration",
+              "slot_name": "Duree",
+              "text": "minutes"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "premiers frelons "
+            },
+            {
+              "entity": "TypeNuisibles",
+              "slot_name": "Nuisibles",
+              "text": "asiatiques"
+            },
+            {
+              "text": " devant les "
+            },
+            {
+              "entity": "TypeSujetRucher",
+              "slot_name": "SujetRucher",
+              "text": "ruches"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "une "
+            },
+            {
+              "entity": "snips/number",
+              "slot_name": "Nombre",
+              "text": "dizaine"
+            },
+            {
+              "text": " de fr\u00e9lons "
+            },
+            {
+              "entity": "TypeNuisibles",
+              "slot_name": "Nuisibles",
+              "text": "asiatiques"
+            },
+            {
+              "text": " devant les "
+            },
+            {
+              "entity": "TypeSujetRucher",
+              "slot_name": "SujetRucher",
+              "text": "ruches"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "la "
+            },
+            {
+              "entity": "TypePhenologie",
+              "slot_name": "Phenologie",
+              "text": "floraison"
+            },
+            {
+              "text": " du "
+            },
+            {
+              "entity": "TypeFleurs",
+              "slot_name": "Fleurs",
+              "text": "tilleul"
+            },
+            {
+              "text": " a d\u00e9marr\u00e9 le 5 "
+            },
+            {
+              "entity": "snips/datetime",
+              "slot_name": "Date",
+              "text": "mai"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "d\u00e9but de "
+            },
+            {
+              "entity": "TypePhenologie",
+              "slot_name": "Phenologie",
+              "text": "floraison"
+            },
+            {
+              "text": " des "
+            },
+            {
+              "entity": "TypeFleurs",
+              "slot_name": "Fleurs",
+              "text": "pruniers"
+            },
+            {
+              "text": " ou du "
+            },
+            {
+              "entity": "TypeFleurs",
+              "slot_name": "Fleurs",
+              "text": "tilleul"
+            },
+            {
+              "entity": "TypeFleurs",
+              "slot_name": "Fleurs",
+              "text": "acacia"
+            },
+            {
+              "entity": "TypeFleurs",
+              "slot_name": "Fleurs",
+              "text": "colza"
+            },
+            {
+              "entity": "TypeFleurs",
+              "slot_name": "Fleurs",
+              "text": "cerisiers"
+            },
+            {
+              "entity": "TypeFleurs",
+              "slot_name": "Fleurs",
+              "text": "pissenlit"
+            },
+            {
+              "entity": "TypeFleurs",
+              "slot_name": "Fleurs",
+              "text": "chataigner"
+            },
+            {
+              "text": ".."
+            }
+          ]
+        }
+      ]
+    },
+    "ObservationRuche": {
+      "utterances": [
+        {
+          "data": [
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "RA"
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "c1"
+            },
+            {
+              "text": " et "
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "c10"
+            },
+            {
+              "entity": "TypeDynamiqueColonie",
+              "slot_name": "DynamiqueColonie",
+              "text": "vides"
+            },
+            {
+              "text": " mais "
+            },
+            {
+              "entity": "TypeDynamiqueColonie",
+              "slot_name": "DynamiqueColonie",
+              "text": "batis"
+            },
+            {
+              "text": " enleve "
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "nourisseur"
+            },
+            {
+              "text": " au profit de "
+            },
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "RB"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "RA2"
+            },
+            {
+              "text": " - "
+            },
+            {
+              "entity": "TypeSujetRuche",
+              "slot_name": "SujetRuche",
+              "text": "ruchette"
+            },
+            {
+              "text": " tr\u00e9s prpolis\u00e9e, "
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "cadres"
+            },
+            {
+              "entity": "snips/number",
+              "slot_name": "Nombre",
+              "text": "1"
+            },
+            {
+              "text": " et "
+            },
+            {
+              "entity": "snips/number",
+              "slot_name": "Nombre",
+              "text": "6"
+            },
+            {
+              "text": " vides "
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "+c2"
+            },
+            {
+              "text": " et "
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "c5"
+            },
+            {
+              "text": " \u00e0 "
+            },
+            {
+              "entity": "snips/percentage",
+              "slot_name": "Pourcentage",
+              "text": "50%"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "RA2"
+            },
+            {
+              "text": " - "
+            },
+            {
+              "entity": "TypeSujetRuche",
+              "slot_name": "SujetRuche",
+              "text": "ruchette"
+            },
+            {
+              "text": " avec "
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "cadres"
+            },
+            {
+              "text": " 1-6 demi "
+            },
+            {
+              "entity": "TypeDynamiqueColonie",
+              "slot_name": "DynamiqueColonie",
+              "text": "pleins"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "RA1"
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "4c"
+            },
+            {
+              "text": " sans "
+            },
+            {
+              "entity": "TypeDynamiqueColonie",
+              "slot_name": "DynamiqueColonie",
+              "text": "batir"
+            },
+            {
+              "text": " pas de reserve de miel, mais du "
+            },
+            {
+              "entity": "TypeDynamiqueColonie",
+              "slot_name": "DynamiqueColonie",
+              "text": "couvain"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "RA"
+            },
+            {
+              "text": " - "
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "hausse"
+            },
+            {
+              "text": " avec "
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "3c"
+            },
+            {
+              "text": " de miel (coll\u00e9es au corps)"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "RA2"
+            },
+            {
+              "text": " la "
+            },
+            {
+              "entity": "TypeSujetRuche",
+              "slot_name": "SujetRuche",
+              "text": "ruchette"
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "6c"
+            },
+            {
+              "text": " en a 2 de "
+            },
+            {
+              "entity": "TypeDynamiqueColonie",
+              "slot_name": "DynamiqueColonie",
+              "text": "vides"
+            },
+            {
+              "text": " et "
+            },
+            {
+              "entity": "snips/number",
+              "slot_name": "Nombre",
+              "text": "1"
+            },
+            {
+              "text": " \u00e0 "
+            },
+            {
+              "entity": "snips/percentage",
+              "slot_name": "Pourcentage",
+              "text": "50%"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "Ra"
+            },
+            {
+              "text": " ouverture de la "
+            },
+            {
+              "entity": "TypeSujetRuche",
+              "slot_name": "SujetRuche",
+              "text": "ruche"
+            },
+            {
+              "entity": "snips/number",
+              "slot_name": "Nombre",
+              "text": "5"
+            },
+            {
+              "text": " panneaux "
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "nouveaux"
+            },
+            {
+              "entity": "TypeDynamiqueColonie",
+              "slot_name": "DynamiqueColonie",
+              "text": "batis"
+            },
+            {
+              "text": " : "
+            },
+            {
+              "entity": "snips/number",
+              "slot_name": "Nombre",
+              "text": "2"
+            },
+            {
+              "text": " avec du miel, "
+            },
+            {
+              "entity": "snips/number",
+              "slot_name": "Nombre",
+              "text": "3"
+            },
+            {
+              "entity": "snips/duration",
+              "slot_name": "Duree",
+              "text": "encours"
+            },
+            {
+              "text": " de construction."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "RA"
+            },
+            {
+              "text": " avait "
+            },
+            {
+              "entity": "snips/number",
+              "slot_name": "Nombre",
+              "text": "3"
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "cadres"
+            },
+            {
+              "text": " de "
+            },
+            {
+              "entity": "TypeDynamiqueColonie",
+              "slot_name": "DynamiqueColonie",
+              "text": "couvain"
+            },
+            {
+              "text": " sur "
+            },
+            {
+              "entity": "snips/number",
+              "slot_name": "Nombre",
+              "text": "4"
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "cadres"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "Ra"
+            },
+            {
+              "text": " - bascule de la "
+            },
+            {
+              "entity": "TypeSujetRuche",
+              "slot_name": "SujetRuche",
+              "text": "ruchette"
+            },
+            {
+              "entity": "snips/number",
+              "slot_name": "Nombre",
+              "text": "5"
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "cadre"
+            },
+            {
+              "text": " sur la "
+            },
+            {
+              "entity": "TypeSujetRuche",
+              "slot_name": "SujetRuche",
+              "text": "ruche"
+            },
+            {
+              "entity": "snips/number",
+              "slot_name": "Nombre",
+              "text": "10"
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "cadres"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "nombreux m\u00e2les = nombreux faux "
+            },
+            {
+              "entity": "TypeRegneApi",
+              "slot_name": "RegneApi",
+              "text": "bourdons"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "beaucoup de "
+            },
+            {
+              "entity": "TypeDynamiqueColonie",
+              "slot_name": "DynamiqueColonie",
+              "text": "couvain"
+            },
+            {
+              "text": " de m\u00e2le"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "TypeRegneApi",
+              "slot_name": "RegneApi",
+              "text": "reine"
+            },
+            {
+              "text": " vue dans "
+            },
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "R6"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "snips/number",
+              "slot_name": "Nombre",
+              "text": "2"
+            },
+            {
+              "entity": "TypeDynamiqueColonie",
+              "slot_name": "cellules [DynamiqueColonie",
+              "text": "royales"
+            },
+            {
+              "text": " dans "
+            },
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "R3"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "TypeDynamiqueColonie",
+              "slot_name": "DynamiqueColonie",
+              "text": "essaimage"
+            },
+            {
+              "text": " de "
+            },
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "R6"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "TypeSujetRuche",
+              "slot_name": "SujetRuche",
+              "text": "ruche"
+            },
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "R2"
+            },
+            {
+              "text": " tentative "
+            },
+            {
+              "entity": "TypeDynamiqueColonie",
+              "slot_name": "DynamiqueColonie",
+              "text": "d'essaimage"
+            },
+            {
+              "entity": "snips/datetime",
+              "slot_name": "Date",
+              "text": "aujourd'hui"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "R6"
+            },
+            {
+              "text": " reste "
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "1c"
+            },
+            {
+              "text": " \u00e0 "
+            },
+            {
+              "entity": "TypeDynamiqueColonie",
+              "slot_name": "DynamiqueColonie",
+              "text": "batir"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "la "
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "H1"
+            },
+            {
+              "text": " de "
+            },
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "R2"
+            },
+            {
+              "text": " est "
+            },
+            {
+              "entity": "TypeDynamiqueColonie",
+              "slot_name": "DynamiqueColonie",
+              "text": "pleine"
+            },
+            {
+              "text": " et opercul\u00e9e"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "la "
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "H2"
+            },
+            {
+              "text": " de "
+            },
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "R1"
+            },
+            {
+              "text": " est "
+            },
+            {
+              "entity": "TypeDynamiqueColonie",
+              "slot_name": "DynamiqueColonie",
+              "text": "vide"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "TypeSujetRuche",
+              "slot_name": "SujetRuche",
+              "text": "ruche"
+            },
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "R2"
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "hause"
+            },
+            {
+              "entity": "TypeDynamiqueColonie",
+              "slot_name": "DynamiqueColonie",
+              "text": "pleine"
+            },
+            {
+              "text": " \u00e0 "
+            },
+            {
+              "entity": "snips/percentage",
+              "slot_name": "Pourcentage",
+              "text": "50%"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "TypeSujetRuche",
+              "slot_name": "SujetRuche",
+              "text": "ruche"
+            },
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "R2"
+            },
+            {
+              "entity": "TypeRegneApi",
+              "slot_name": "RegneApi",
+              "text": "colonie"
+            },
+            {
+              "text": " sur "
+            },
+            {
+              "entity": "snips/number",
+              "slot_name": "Nombre",
+              "text": "6"
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "cadres"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "TypeSujetRuche",
+              "slot_name": "SujetRuche",
+              "text": "ruche"
+            },
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "R2"
+            },
+            {
+              "entity": "TypeQuantite",
+              "slot_name": "Quantite",
+              "text": "beaucoup"
+            },
+            {
+              "text": " de "
+            },
+            {
+              "entity": "TypeDynamiqueColonie",
+              "slot_name": "DynamiqueColonie",
+              "text": "pollen"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "TypeSujetRuche",
+              "slot_name": "SujetRuche",
+              "text": "ruche"
+            },
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "R2"
+            },
+            {
+              "entity": "TypeQuantite",
+              "slot_name": "Quantite",
+              "text": "peu"
+            },
+            {
+              "text": " de "
+            },
+            {
+              "entity": "TypeDynamiqueColonie",
+              "slot_name": "DynamiqueColonie",
+              "text": "provisions"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "TypeSujetRuche",
+              "slot_name": "SujetRuche",
+              "text": "ruche"
+            },
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "R2"
+            },
+            {
+              "text": " avec "
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "2c"
+            },
+            {
+              "entity": "TypeDynamiqueColonie",
+              "slot_name": "DynamiqueColonie",
+              "text": "vides"
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "2c"
+            },
+            {
+              "entity": "TypeDynamiqueColonie",
+              "slot_name": "DynamiqueColonie",
+              "text": "couvain"
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "2c"
+            },
+            {
+              "text": " \u00e0 "
+            },
+            {
+              "entity": "TypeDynamiqueColonie",
+              "slot_name": "DynamiqueColonie",
+              "text": "b\u00e2tir"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "TypeSujetRuche",
+              "slot_name": "SujetRuche",
+              "text": "ruche"
+            },
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "R2"
+            },
+            {
+              "text": " avec "
+            },
+            {
+              "entity": "snips/number",
+              "slot_name": "Nombre",
+              "text": "2"
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "cadres"
+            },
+            {
+              "entity": "TypeDynamiqueColonie",
+              "slot_name": "DynamiqueColonie",
+              "text": "vides"
+            },
+            {
+              "entity": "snips/number",
+              "slot_name": "Nombre",
+              "text": "2"
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "cadres"
+            },
+            {
+              "text": " de "
+            },
+            {
+              "entity": "TypeDynamiqueColonie",
+              "slot_name": "DynamiqueColonie",
+              "text": "couvain"
+            },
+            {
+              "entity": "snips/number",
+              "slot_name": "Nombre",
+              "text": "2"
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "cadres"
+            },
+            {
+              "text": " \u00e0 "
+            },
+            {
+              "entity": "TypeDynamiqueColonie",
+              "slot_name": "DynamiqueColonie",
+              "text": "b\u00e2tir"
+            },
+            {
+              "entity": "TypeDynamiqueColonie",
+              "slot_name": "DynamiqueColonie",
+              "text": "populeuse"
+            }
+          ]
+        }
+      ]
+    },
+    "OperationApi": {
+      "utterances": [
+        {
+          "data": [
+            {
+              "entity": "TypeActiviteApi",
+              "slot_name": "ActiviteApi",
+              "text": "Division"
+            },
+            {
+              "text": " de "
+            },
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "R5"
+            },
+            {
+              "text": " avec "
+            },
+            {
+              "entity": "snips/number",
+              "slot_name": "Nombre",
+              "text": "2"
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "cadres"
+            },
+            {
+              "entity": "TypeSymboles",
+              "slot_name": "Symboles",
+              "text": "="
+            },
+            {
+              "entity": "TypeSymboles",
+              "slot_name": "Symboles",
+              "text": ">"
+            },
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "R11"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "premiere "
+            },
+            {
+              "entity": "TypeActiviteApi",
+              "slot_name": "ActiviteApi",
+              "text": "recolte"
+            },
+            {
+              "text": " chez "
+            },
+            {
+              "entity": "TypePersonnePhysique",
+              "slot_name": "PersonnePhysique",
+              "text": "pascal"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "RB"
+            },
+            {
+              "text": " - 5 "
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "cadres"
+            },
+            {
+              "text": " non batis => il faut "
+            },
+            {
+              "entity": "TypeActiviteApi",
+              "slot_name": "ActiviteApi",
+              "text": "nourrir"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "RB"
+            },
+            {
+              "text": " - "
+            },
+            {
+              "entity": "TypeActiviteApi",
+              "slot_name": "ActiviteApi",
+              "text": "transvars\u00e9e"
+            },
+            {
+              "text": " sur un "
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "corps"
+            },
+            {
+              "text": " dedant "
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "10c"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "RA"
+            },
+            {
+              "text": " on "
+            },
+            {
+              "entity": "TypeActiviteApi",
+              "slot_name": "ActiviteApi",
+              "text": "met"
+            },
+            {
+              "text": " a "
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "hausse"
+            },
+            {
+              "text": " sur "
+            },
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "RA"
+            },
+            {
+              "text": " meme s'il reste 2 "
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "cadres"
+            },
+            {
+              "text": " vides dans le "
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "corps"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "TypeActiviteApi",
+              "slot_name": "ActiviteApi",
+              "text": "S\u00e9paration"
+            },
+            {
+              "text": " par grille \u00e0 "
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "reines"
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "corps"
+            },
+            {
+              "text": " en haut puis nouvelle "
+            },
+            {
+              "entity": "TypeActiviteApi",
+              "slot_name": "ActiviteApi",
+              "text": "division"
+            },
+            {
+              "text": " en 1 "
+            },
+            {
+              "entity": "TypeSujetRuche",
+              "slot_name": "SujetRuche",
+              "text": "ruche"
+            },
+            {
+              "text": " et 1 "
+            },
+            {
+              "entity": "TypeSujetRuche",
+              "slot_name": "SujetRuche",
+              "text": "ruchette"
+            },
+            {
+              "text": " de 3+2 "
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "cadres"
+            },
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "RA1"
+            },
+            {
+              "text": " et "
+            },
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "RA2"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "RA"
+            },
+            {
+              "entity": "TypeActiviteApi",
+              "slot_name": "ActiviteApi",
+              "text": "Division"
+            },
+            {
+              "text": " de la "
+            },
+            {
+              "entity": "TypeSujetRuche",
+              "slot_name": "SujetRuche",
+              "text": "ruche"
+            },
+            {
+              "text": " de Darfeuil, super charg\u00e9e."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "RB"
+            },
+            {
+              "text": " - "
+            },
+            {
+              "entity": "TypeActiviteApi",
+              "slot_name": "ActiviteApi",
+              "text": "recolte"
+            },
+            {
+              "text": " de "
+            },
+            {
+              "entity": "TypeDynamiqueColonieE",
+              "slot_name": "DynamiqueColonieE",
+              "text": "l'essaim"
+            },
+            {
+              "text": " de pascalM dans une de ses "
+            },
+            {
+              "entity": "TypeSujetRuche",
+              "slot_name": "SujetRuche",
+              "text": "ruchetes"
+            },
+            {
+              "text": " avec "
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "nourrisseur"
+            },
+            {
+              "text": " vertical."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "TypeActiviteApi",
+              "slot_name": "ActiviteApi",
+              "text": "traitement"
+            },
+            {
+              "text": " avec acide "
+            },
+            {
+              "entity": "TypeTraitement",
+              "slot_name": "Traitement",
+              "text": "oxalique"
+            },
+            {
+              "text": " le 12 "
+            },
+            {
+              "entity": "snips/datetime",
+              "slot_name": "Date",
+              "text": "d\u00e9cembre"
+            },
+            {
+              "text": " par d\u00e9goutement"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "TypeActiviteApi",
+              "slot_name": "ActiviteApi",
+              "text": "traitement"
+            },
+            {
+              "text": " avec acide "
+            },
+            {
+              "entity": "TypeTraitement",
+              "slot_name": "Traitement",
+              "text": "oxalique"
+            },
+            {
+              "text": " le 12 "
+            },
+            {
+              "entity": "snips/datetime",
+              "slot_name": "Date",
+              "text": "d\u00e9cembre"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "il "
+            },
+            {
+              "entity": "TypeActiviteApi",
+              "slot_name": "ActiviteApi",
+              "text": "faudra"
+            },
+            {
+              "entity": "TypeActiviteApi",
+              "slot_name": "ActiviteApi",
+              "text": "retirer"
+            },
+            {
+              "text": " les "
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "lani\u00e8res"
+            },
+            {
+              "text": " le 3 juin "
+            },
+            {
+              "entity": "snips/datetime",
+              "slot_name": "Date",
+              "text": "2018"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "TypeActiviteApi",
+              "slot_name": "ActiviteApi",
+              "text": "pose"
+            },
+            {
+              "text": " des "
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "lani\u00e8res"
+            },
+            {
+              "entity": "TypeTraitement",
+              "slot_name": "Traitement",
+              "text": "d'APIVAR"
+            },
+            {
+              "entity": "TypeTraitement",
+              "slot_name": "Traitement",
+              "text": "APIGUARD"
+            },
+            {
+              "entity": "TypeTraitement",
+              "slot_name": "Traitement",
+              "text": "APISTAN"
+            },
+            {
+              "entity": "TypeTraitement",
+              "slot_name": "Traitement",
+              "text": "APILIFE"
+            },
+            {
+              "entity": "snips/datetime",
+              "slot_name": "Date",
+              "text": "aujourd'hui"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "TypeQuantite",
+              "slot_name": "Quantite",
+              "text": "50kg"
+            },
+            {
+              "text": " de "
+            },
+            {
+              "entity": "TypeProduitRuche",
+              "slot_name": "ProduitRuche",
+              "text": "miel"
+            },
+            {
+              "entity": "TypeActiviteApi",
+              "slot_name": "ActiviteApi",
+              "text": "recolt\u00e9s"
+            },
+            {
+              "text": " en "
+            },
+            {
+              "entity": "snips/datetime",
+              "slot_name": "Date",
+              "text": "2018"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "TypeActiviteApi",
+              "slot_name": "ActiviteApi",
+              "text": "r\u00e9colte"
+            },
+            {
+              "text": " de "
+            },
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "R1"
+            },
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "R4"
+            },
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "R6"
+            },
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "R8"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "TypeActiviteApi",
+              "slot_name": "ActiviteApi",
+              "text": "r\u00e9colte"
+            },
+            {
+              "text": " du "
+            },
+            {
+              "entity": "TypeProduitRuche",
+              "slot_name": "ProduitRuche",
+              "text": "miel"
+            },
+            {
+              "text": " le 5 "
+            },
+            {
+              "entity": "snips/datetime",
+              "slot_name": "Date",
+              "text": "juillet"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "TypeActiviteApi",
+              "slot_name": "ActiviteApi",
+              "text": "changement"
+            },
+            {
+              "text": " du "
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "planchers"
+            },
+            {
+              "text": " de "
+            },
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "R3"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "TypeActiviteApi",
+              "slot_name": "ActiviteApi",
+              "text": "pose"
+            },
+            {
+              "text": " du chasse "
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "abeilles"
+            },
+            {
+              "text": " sur "
+            },
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "R2"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "TypeActiviteApi",
+              "slot_name": "ActiviteApi",
+              "text": "penser"
+            },
+            {
+              "text": " \u00e0 "
+            },
+            {
+              "entity": "TypeActiviteApi",
+              "slot_name": "ActiviteApi",
+              "text": "transvaser"
+            },
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "R3"
+            },
+            {
+              "text": " dans un "
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "corps"
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "10c"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "R3"
+            },
+            {
+              "entity": "TypeActiviteApi",
+              "slot_name": "ActiviteApi",
+              "text": "transvas\u00e9e"
+            },
+            {
+              "text": " de la "
+            },
+            {
+              "entity": "TypeSujetRuche",
+              "slot_name": "SujetRuche",
+              "text": "ruchette"
+            },
+            {
+              "text": " vers un "
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "corps"
+            },
+            {
+              "text": " dadant "
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "10c"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "TypeActiviteApi",
+              "slot_name": "ActiviteApi",
+              "text": "pose"
+            },
+            {
+              "text": " d'un "
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "nourrisseur"
+            },
+            {
+              "text": " sur "
+            },
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "R4"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "TypeActiviteApi",
+              "slot_name": "ActiviteApi",
+              "text": "pose"
+            },
+            {
+              "text": " de une "
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "hausse"
+            },
+            {
+              "text": " avec 4 "
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "cadres"
+            },
+            {
+              "text": " b\u00e2tis"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "TypeActiviteApi",
+              "slot_name": "ActiviteApi",
+              "text": "ajout"
+            },
+            {
+              "text": " de "
+            },
+            {
+              "entity": "TypeNourrissement",
+              "slot_name": "Nourrissement",
+              "text": "sirop"
+            },
+            {
+              "text": " dans le "
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "nourrisseur"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "il faut "
+            },
+            {
+              "entity": "TypeActiviteApi",
+              "slot_name": "ActiviteApi",
+              "text": "nourrir"
+            },
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "R2"
+            },
+            {
+              "text": " la semaine "
+            },
+            {
+              "entity": "snips/datetime",
+              "slot_name": "Date",
+              "text": "prochaine"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "R2"
+            },
+            {
+              "entity": "TypeActiviteApi",
+              "slot_name": "ActiviteApi",
+              "text": "nourrie"
+            },
+            {
+              "text": " avec 1 paquet de "
+            },
+            {
+              "entity": "TypeNourrissement",
+              "slot_name": "Nourrissement",
+              "text": "candi"
+            },
+            {
+              "text": " de "
+            },
+            {
+              "entity": "TypeQuantite",
+              "slot_name": "Quantite",
+              "text": "2.5kg"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "R2"
+            },
+            {
+              "entity": "TypeActiviteApi",
+              "slot_name": "ActiviteApi",
+              "text": "nourrie"
+            },
+            {
+              "text": " avec "
+            },
+            {
+              "entity": "snips/number",
+              "slot_name": "Nombre",
+              "text": "4"
+            },
+            {
+              "text": " louches de "
+            },
+            {
+              "entity": "TypeNourrissement",
+              "slot_name": "Nourrissement",
+              "text": "sirop"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "TypeActiviteApi",
+              "slot_name": "ActiviteApi",
+              "text": "Division"
+            },
+            {
+              "text": " de "
+            },
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "R5"
+            },
+            {
+              "text": " avec "
+            },
+            {
+              "entity": "snips/number",
+              "slot_name": "Nombre",
+              "text": "2"
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "cadres"
+            },
+            {
+              "entity": "TypeSymboles",
+              "slot_name": "Symboles",
+              "text": "=>"
+            },
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "R11"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "TypeActiviteApi",
+              "slot_name": "ActiviteApi",
+              "text": "division"
+            },
+            {
+              "text": " de "
+            },
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "R2"
+            },
+            {
+              "text": " avec "
+            },
+            {
+              "entity": "snips/number",
+              "slot_name": "Nombre",
+              "text": "3"
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "cadres"
+            },
+            {
+              "text": " dans une "
+            },
+            {
+              "entity": "TypeSujetRuche",
+              "slot_name": "SujetRuche",
+              "text": "ruchette"
+            },
+            {
+              "entity": "TypeSymboles",
+              "slot_name": "Symboles",
+              "text": "=>"
+            },
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "R3"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "j'ai "
+            },
+            {
+              "entity": "TypeActiviteApi",
+              "slot_name": "ActiviteApi",
+              "text": "ajoute"
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "H1"
+            },
+            {
+              "text": " sur "
+            },
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "R2"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "j'ai "
+            },
+            {
+              "entity": "TypeActiviteApi",
+              "slot_name": "ActiviteApi",
+              "text": "ajout\u00e9"
+            },
+            {
+              "text": " la "
+            },
+            {
+              "entity": "TypeMaterielRuche",
+              "slot_name": "MaterielRuche",
+              "text": "hausse"
+            },
+            {
+              "entity": "snips/number",
+              "slot_name": "Nombre",
+              "text": "1"
+            },
+            {
+              "text": " sur "
+            },
+            {
+              "entity": "TypeIdRuche",
+              "slot_name": "IdRuche",
+              "text": "R2"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "language": "fr"
+}
